@@ -1,6 +1,6 @@
 # `SimpleWeatherCLI`
 
-![example workflow](https://github.com/github/docs/actions/workflows/python-publish.yml/badge.svg)
+![example workflow](https://github.com/kriogman/simpleweathercli/actions/workflows/python-publish.yml/badge.svg)
 
 # Description
 
