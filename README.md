@@ -211,5 +211,5 @@ simpleweathercli show --forecast --api-key=90d91e149438f9d0a4f063dc5189720e Lond
 
 SimpleWeatherCLI Releases:
 
-### 0.1.0
+### 0.1.3
 
